@@ -1,6 +1,6 @@
 # GatilhodeSonsAleatórioscomPython
 
-Este projeto foi gerado com [Python] versão 3.11.3.
+Este projeto foi gerado com [Python](https://www.python.org/) versão 16.2.6.3.
 
 Este código em Python implementa um gatilho que, ao ser acionado por um número aleatório específico, adiciona sons à fila de ações. Os sons são reproduzidos sequencialmente, proporcionando uma experiência mais dinâmica e interativa.
 
@@ -28,7 +28,7 @@ Aguardar o Término da Reprodução: O uso de time.sleep para aguardar o términ
 
 ## Instruções de Uso e Modificação
 
-Instalação do Pygame: Certifique-se de ter o Pygame instalado antes de executar o código.
+Instalação do Pygame: Certifique-se de ter o [Pygame](https://www.pygame.org/docs/) instalado antes de executar o código.
 
 Substituição dos Sons: Substitua os arquivos de som caminho_do_primeiro_som.mp3 e caminho_do_segundo_som.mp3 pelos caminhos reais dos seus arquivos de áudio.
 
